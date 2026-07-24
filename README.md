@@ -24,7 +24,7 @@ Tested in Windows 10.
 
 ## To use:
 
-1. Just download the release and extract in a subfolder.
+1. Just download the release and extract.
 
 2. Go to account options to fetch the API Access Credentials key at the bottom: https://gelbooru.com/index.php?page=account&s=options
 
