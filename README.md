@@ -1,7 +1,7 @@
 # Your Gelbooru Favorite's Character Leaderboard
-<img width="2848" height="811" alt="Github - Banner" src="https://github.com/user-attachments/assets/d9a23fd4-f30a-4644-9c1c-449675520f57"/>
+<img width="2848" height="811" alt="Github - Banner" src="https://github.com/user-attachments/assets/cf26d803-c65f-4a4c-9b8d-38eaf34bd1ef" />
 
-Process your Gelbooru favorite's characters locally by count for a spreadsheet and a GUI page with pictures to see pitted in a leaderboard.
+Process your Gelbooru favorite's characters locally by favorited amount for a spreadsheet and a GUI page with pictures to see who's pitted into the leaderboard.
 
 Inspired by Sankaku's Complex now discontinued favorite characters stat that used to be shown on your profile.
 
