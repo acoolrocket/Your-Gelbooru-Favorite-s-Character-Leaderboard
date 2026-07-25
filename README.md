@@ -36,6 +36,8 @@ Tested in Windows 10.
 
 5. Follow instructions from there, note that the long processing time, especially if you have +1k favorited posts, is to make sure you aren't overbearing Gelbooru with API calls. For example my account with 12.2k favorited posts took 54 minutes to process altogether alongside the GUI page.
 
+6. When done, it'll auto-launch "favorite_characters.html" in your default browser, else you can manually open it up anytime afterwards if you didn't set to auto-delete.
+
 # More pics:
 
 <img width="1902" height="1047" alt="2" src="https://github.com/user-attachments/assets/faffd9c8-5316-4a02-b85f-61195bca882c" />
